@@ -12,7 +12,7 @@ Currently I'm doing my Matriculation in Computer Science.
 ### Languages and Tools:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,bootstrap,react,nodejs,bash,powershell,git,github,visualstudio,vscode&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,solidity,nodejs,bash,powershell,github,vscode&perline=8"/>
 </p>
 
 ### Connect me on:
