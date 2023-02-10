@@ -6,7 +6,7 @@ Currently I'm doing my Matriculation in Computer Science.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [haseebhamid554@gmail.com](mailto:haseebhamid554@gmail.com)
-* 🚀  I'm currently working at [Pluton](https://pluton.ltd)
+* 🚀  I'm currently working at Upwork
 
 
 ### Languages and Tools:
